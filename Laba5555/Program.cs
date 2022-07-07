@@ -4,6 +4,7 @@ namespace Laba5555
 {
     class Program
     {
+        //asdfjkasdklfslka
         static void Main(string[] args)
         {
             Console.WriteLine("Арифметическая прогрессия");
