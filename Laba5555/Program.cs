@@ -7,6 +7,7 @@ namespace Laba5555
         //asdfjkasdklfslka
         static void Main(string[] args)
         {
+            //klasdfkladsfklklasdfkl
             Console.WriteLine("Арифметическая прогрессия");
             double d = 0.5;
             int j = 3;
